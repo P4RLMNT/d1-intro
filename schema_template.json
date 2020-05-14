@@ -1,0 +1,8 @@
+{
+	"$schema":"http://json-schema.org/draft-04/schema#",
+	"$id":"http://fisglobal.com/###Replace_Me",
+	"title":"###Replace_Me",
+	"type":"object",
+	"properties":{},
+	"additionalProperties":{}
+}
